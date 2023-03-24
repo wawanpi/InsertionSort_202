@@ -28,6 +28,11 @@ void input() {
 		cout << "Data ke-" << ": ";
 		cin >> arr[i];
 	}
+}
+
+void insertionsort() {
+
+}
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
