@@ -67,8 +67,9 @@ void display() {
 	cout << "\n==================================" << endl;
 
 	for (int j = 0; j < n; j++) {
-		co
+		cout << arr[j] << endl;
 	}
+	cout << endl;
 }
 
 
