@@ -4,7 +4,7 @@ using namespace std;
 int arr[20];
 int n;
 
-void input(){
+void input() {
 	while (true)
 	{
 		cout << "Masukan jumlah Dara pada Array :";
@@ -18,10 +18,11 @@ void input(){
 			cout << "\nArray yang anda masukan maksimal 20 Element.\n";
 		}
 	}
+	cout << "=====================" << endl;
+	cout << "Masukan Ekement Array" << endl;
+	cout << "=====================" << endl;
 }
-cout << "=====================" << endl;
-cout << "Masukan Ekement Array" << endl;
-cout << "=====================" << endl; 
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
