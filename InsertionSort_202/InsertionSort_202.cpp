@@ -23,7 +23,11 @@ void input() {
 	cout << "=====================" << endl;
 
 
-	for (int i =0; i < n; i++ )
+	for (int i = 0; i < n; i++)
+	{
+		cout << "Data ke-" << ": ";
+		cin >> arr[i];
+	}
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
